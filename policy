@@ -1,0 +1,251 @@
+# Treasure App - Security & Privacy Policy
+
+## Repository Overview
+**Project Name:** Treasure - Personal Asset Management Application  
+**Type:** Private Repository  
+**Purpose:** Personal financial asset tracking and management system  
+**Last Updated:** August 2025
+
+---
+
+## 🔒 Security Policy
+
+### Data Classification
+This application handles **HIGHLY SENSITIVE** personal financial data including:
+- Cryptocurrency wallets and balances
+- Bank account information
+- Transaction histories
+- Investment portfolios
+- Personal financial records
+
+### Security Requirements
+
+#### 1. Access Control
+- **Repository Status:** Must remain PRIVATE
+- **Collaborator Access:** Strictly limited to authorized developers only
+- **Two-Factor Authentication:** REQUIRED for all contributors
+- **Access Review:** Monthly review of all repository members
+
+#### 2. Code Security Standards
+- **No Hardcoded Credentials:** API keys, passwords, or sensitive data must NEVER be committed
+- **Environment Variables:** All configuration must use `.env` files (never commit `.env`)
+- **Encryption:** All sensitive data must be encrypted at rest and in transit
+- **Secret Management:** Use GitHub Secrets for CI/CD pipelines
+
+#### 3. Prohibited Practices
+- ❌ Committing real financial data (even in examples)
+- ❌ Hardcoding API endpoints or keys
+- ❌ Using production data in development/testing
+- ❌ Sharing repository access without authorization
+- ❌ Making the repository public
+
+---
+
+## 🛡️ Privacy Policy
+
+### Data Handling Principles
+
+#### Personal Information Protection
+1. **Minimal Data Collection:** Only collect data essential for app functionality
+2. **Data Anonymization:** Use fake/sample data for all examples and documentation
+3. **Local Storage First:** Prioritize local device storage over cloud solutions
+4. **User Consent:** Explicit consent required for any data processing
+
+#### Data Storage Guidelines
+- **Database Encryption:** All databases must use encryption
+- **Backup Security:** Encrypted backups with restricted access
+- **Data Retention:** Implement automatic data purging policies
+- **Export Controls:** Secure data export with encryption
+
+---
+
+## 📝 Development Guidelines
+
+### Secure Coding Practices
+
+#### Required Security Measures
+```
+✅ Input validation on all user entries
+✅ SQL injection prevention
+✅ XSS protection
+✅ CSRF tokens for all forms
+✅ Rate limiting on API calls
+✅ Secure session management
+✅ Regular dependency updates
+```
+
+#### Code Review Requirements
+- All PRs must be reviewed by at least one other developer
+- Security-focused review for authentication/authorization changes
+- Automated security scanning before merge
+- No direct pushes to main/master branch
+
+### Branch Protection Rules
+```yaml
+main/master branch:
+  - Require pull request reviews: Yes (1 minimum)
+  - Dismiss stale reviews: Yes
+  - Require status checks: Yes
+  - Include administrators: Yes
+  - Restrict push access: Yes
+```
+
+---
+
+## 🚨 Incident Response
+
+### Security Breach Protocol
+
+#### Immediate Actions
+1. **Isolate:** Immediately revoke compromised access
+2. **Assess:** Determine scope and impact
+3. **Secure:** Change all passwords and API keys
+4. **Document:** Record all details of the incident
+5. **Audit:** Review logs for unauthorized access
+
+#### Reporting Requirements
+- Document incident within 24 hours
+- Review security measures within 48 hours
+- Implement preventive measures within 1 week
+
+---
+
+## 🔑 API & Integration Security
+
+### Third-Party Services
+- **Banking APIs:** Use OAuth 2.0 and official SDKs only
+-នន **Crypto Exchanges:** Implement IP whitelisting and API key restrictions
+- **Payment Processors:** PCI DSS compliance required
+- **Analytics:** Privacy-focused solutions only (no Google Analytics)
+
+### API Key Management
+```javascript
+// CORRECT - Using environment variables
+const API_KEY = process.env.BANK_API_KEY;
+
+// WRONG - Never hardcode
+const API_KEY = "sk_live_abc123...";  // NEVER DO THIS
+```
+
+---
+
+## 📋 Compliance & Legal
+
+### Regulatory Considerations
+- **Data Protection:** Comply with GDPR/CCPA principles
+- **Financial Regulations:** Follow local financial data handling laws
+- **Encryption Standards:** Use industry-standard encryption (AES-256)
+- **Audit Trail:** Maintain comprehensive logs of all transactions
+
+### Disclaimer
+```
+This application is for PERSONAL USE ONLY.
+Not intended for commercial or public deployment.
+The owner assumes all risks associated with financial data management.
+```
+
+---
+
+## 🧪 Testing & Quality Assurance
+
+### Testing Requirements
+- **Unit Tests:** Minimum 80% code coverage
+- **Security Tests:** Regular penetration testing
+- **Sample Data:** Use only fake data for testing
+- **Test Isolation:** Separate test environment from production
+
+### Sample Data Format
+```json
+{
+  "example_account": {
+    "bank_name": "Sample Bank",
+    "account_number": "XXXX-XXXX-XXXX-1234",
+    "balance": 10000.00,
+    "note": "This is SAMPLE DATA only"
+  }
+}
+```
+
+---
+
+## 📚 Documentation Requirements
+
+### Public Documentation
+- Architecture overview (without sensitive details)
+- Installation instructions
+- API documentation (endpoints only, no keys)
+- Security best practices
+
+### Private Documentation
+- Detailed system architecture
+- Database schemas
+- API credentials (stored securely)
+- Deployment procedures
+
+---
+
+## ⚠️ Warning & Liability
+
+### Legal Disclaimer
+```
+WARNING: This application handles sensitive financial data.
+- The repository owner is solely responsible for data security
+- Contributors are not liable for data breaches or financial losses
+- This software is provided "AS IS" without warranty
+- Not intended for commercial use or public deployment
+```
+
+### Contributor Agreement
+By contributing to this repository, you agree to:
+1. Maintain strict confidentiality
+2. Follow all security guidelines
+3. Report security issues immediately
+4. Never expose real financial data
+5. Delete all local copies upon access revocation
+
+---
+
+## 🔄 Policy Updates
+
+### Version Control
+- Version: 1.0.0
+- Last Updated: August 2025
+- Review Schedule: Quarterly
+- Change Log: Maintained in CHANGELOG.md
+
+### Amendment Process
+1. Propose changes via pull request
+2. Security review required
+3. Owner approval mandatory
+4. Update version and date
+5. Notify all contributors
+
+---
+
+## 📞 Contact Information
+
+### Security Contact
+- **Primary:** itminh
+- **Email:** itminh@kbivt.com
+- **Response Time:** Within 24 hours for security issues
+
+### Reporting Security Issues
+- **DO:** Report privately through GitHub Security Advisories
+- **DO NOT:** Create public issues for security vulnerabilities
+- **DO NOT:** Share exploits or vulnerabilities publicly
+
+---
+
+## ✅ Acknowledgment
+
+By accessing this repository, you acknowledge that you have read, understood, and agree to comply with all policies outlined in this document.
+
+```
+Last Policy Acceptance Required: August 2025
+Next Review Date: November 2025
+Policy Version: 1.0.0
+```
+
+---
+
+*This policy is mandatory for all contributors and must be reviewed quarterly.*
