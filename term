@@ -1,0 +1,372 @@
+# Terms of Service - Treasure Personal Asset Manager
+
+**Effective Date:** August 25, 2025  
+**Last Updated:** August 25, 2025  
+**Version:** 1.0.0
+
+---
+
+## 1. ACCEPTANCE OF TERMS
+
+By accessing, downloading, installing, or using the Treasure Personal Asset Manager application ("the App", "Service", or "Treasure"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Service.
+
+**IMPORTANT:** This is a PERSONAL USE application only. Commercial use is strictly prohibited.
+
+---
+
+## 2. DESCRIPTION OF SERVICE
+
+### 2.1 Service Overview
+Treasure is a personal financial asset management application that provides:
+- Cryptocurrency portfolio tracking
+- Bank account balance monitoring
+- Transaction history management
+- Financial asset organization
+- Personal finance analytics
+
+### 2.2 Service Limitations
+- **Personal Use Only:** Not for commercial or business purposes
+- **Self-Hosted:** User is responsible for deployment and maintenance
+- **No Financial Advice:** The App does not provide investment or financial advice
+- **No Trading Capabilities:** This is a tracking tool only
+
+---
+
+## 3. USER ELIGIBILITY
+
+To use this Service, you must:
+- Be at least 18 years of age
+- Have the legal capacity to enter into binding agreements
+- Be the sole owner of the financial accounts you track
+- Use the Service only for lawful purposes
+- Comply with all applicable laws and regulations
+
+---
+
+## 4. USER ACCOUNT & RESPONSIBILITIES
+
+### 4.1 Account Security
+You are responsible for:
+- Maintaining the confidentiality of your credentials
+- All activities that occur under your account
+- Implementing appropriate security measures
+- Regular backups of your data
+- Notifying immediately of any unauthorized use
+
+### 4.2 Accurate Information
+You agree to:
+- Provide accurate and current information
+- Update information as necessary
+- Not impersonate others
+- Use only your own financial data
+
+### 4.3 Prohibited Uses
+You may NOT:
+- Use the Service for illegal activities
+- Track accounts you don't own
+- Attempt to hack or compromise the system
+- Share access with unauthorized parties
+- Use for money laundering or fraud
+- Commercialize or resell the Service
+- Reverse engineer the application
+- Remove copyright or proprietary notices
+
+---
+
+## 5. PRIVACY & DATA PROTECTION
+
+### 5.1 Data Ownership
+- **Your Data:** You retain all rights to your financial data
+- **Local Storage:** Data is stored locally on your device/server
+- **No Cloud Sync:** The Service does not upload data to external servers
+- **Full Control:** You can export or delete your data at any time
+
+### 5.2 Data Security
+- **Encryption:** All sensitive data is encrypted
+- **No Sharing:** Your data is never shared with third parties
+- **User Responsibility:** You are responsible for securing your deployment
+- **Backups:** You are responsible for maintaining backups
+
+### 5.3 Third-Party Integrations
+When connecting to external services (banks, exchanges):
+- You authorize the App to access your accounts
+- Third-party terms and privacy policies apply
+- The App stores only necessary information
+- API credentials are encrypted
+
+---
+
+## 6. INTELLECTUAL PROPERTY
+
+### 6.1 Application Rights
+The Service, including all code, design, and documentation, is protected by copyright and intellectual property laws. All rights not explicitly granted are reserved.
+
+### 6.2 License Grant
+Subject to these Terms, you are granted a:
+- Non-exclusive
+- Non-transferable
+- Revocable
+- Personal use license
+
+### 6.3 Restrictions
+You may not:
+- Distribute or sell the application
+- Create derivative works for commercial use
+- Remove proprietary notices
+- Use trademarks without permission
+
+---
+
+## 7. DISCLAIMERS & LIMITATIONS
+
+### 7.1 "AS IS" SERVICE
+THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+- MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+- ACCURACY OR RELIABILITY
+
+### 7.2 No Financial Advice
+**IMPORTANT DISCLAIMER:**
+- The App is NOT a financial advisor
+- Information provided is for tracking only
+- No investment recommendations are made
+- Consult qualified professionals for financial advice
+- Past performance doesn't indicate future results
+
+### 7.3 Third-Party Services
+- Not responsible for third-party service availability
+- Bank/exchange API changes may affect functionality
+- No guarantee of continuous integration support
+
+---
+
+## 8. LIMITATION OF LIABILITY
+
+### 8.1 Exclusion of Damages
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR:
+- Loss of profits or revenue
+- Loss of data or financial information
+- Trading or investment losses
+- Indirect, incidental, or consequential damages
+- Punitive or exemplary damages
+
+### 8.2 Maximum Liability
+Total liability shall not exceed the amount you paid for the Service (if any) or $100 USD, whichever is less.
+
+### 8.3 Essential Purpose
+These limitations apply even if remedies fail their essential purpose and regardless of the legal theory.
+
+---
+
+## 9. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless the developer from:
+- Your use or misuse of the Service
+- Violation of these Terms
+- Violation of any laws or regulations
+- Infringement of third-party rights
+- Your financial decisions or actions
+- Unauthorized access due to your negligence
+
+---
+
+## 10. FINANCIAL DATA DISCLAIMER
+
+### 10.1 Accuracy
+- Data accuracy depends on third-party sources
+- Delays or errors may occur
+- Verify important information independently
+- The App is not responsible for data discrepancies
+
+### 10.2 Risk Acknowledgment
+You acknowledge that:
+- Cryptocurrency is volatile and risky
+- Financial markets carry inherent risks
+- You are solely responsible for your financial decisions
+- The App does not guarantee financial outcomes
+
+---
+
+## 11. TERMINATION
+
+### 11.1 Termination Rights
+Either party may terminate these Terms:
+- **By You:** Stop using the Service at any time
+- **By Developer:** For violation of Terms or at discretion
+
+### 11.2 Effect of Termination
+Upon termination:
+- Your right to use the Service ceases
+- You must delete all copies of the application
+- Data removal is your responsibility
+- Certain provisions survive termination
+
+---
+
+## 12. MODIFICATIONS TO TERMS
+
+### 12.1 Right to Modify
+These Terms may be updated at any time. Continued use after changes constitutes acceptance.
+
+### 12.2 Notification
+Changes will be indicated by:
+- Updated "Last Updated" date
+- Version number change
+- Repository notification (if applicable)
+
+---
+
+## 13. GOVERNING LAW & DISPUTES
+
+### 13.1 Governing Law
+These Terms are governed by the laws , without regard to conflict of law principles.
+
+### 13.2 Dispute Resolution
+- **Informal Resolution:** First attempt to resolve informally
+- **Arbitration:** Binding arbitration for unresolved disputes
+- **Class Action Waiver:** No class or representative actions
+
+---
+
+## 14. SECURITY INCIDENTS
+
+### 14.1 User Obligations
+You must immediately report:
+- Unauthorized access
+- Security vulnerabilities
+- Data breaches
+- Suspicious activities
+
+### 14.2 No Warranty
+No guarantee against:
+- Hacking or unauthorized access
+- Data loss or corruption
+- Service interruptions
+- Security vulnerabilities
+
+---
+
+## 15. EXPORT COMPLIANCE
+
+You agree to comply with all export and import laws, including:
+- Not exporting to prohibited countries
+- Not using for prohibited end-uses
+- Compliance with encryption regulations
+
+---
+
+## 16. GENERAL PROVISIONS
+
+### 16.1 Entire Agreement
+These Terms constitute the entire agreement between parties.
+
+### 16.2 Severability
+If any provision is unenforceable, the remaining provisions continue.
+
+### 16.3 No Waiver
+Failure to enforce any right is not a waiver.
+
+### 16.4 Assignment
+You may not assign these Terms without written consent.
+
+### 16.5 Force Majeure
+No liability for delays due to circumstances beyond reasonable control.
+
+---
+
+## 17. SPECIAL PROVISIONS FOR CRYPTOCURRENCY
+
+### 17.1 Cryptocurrency Risks
+You acknowledge:
+- Extreme price volatility
+- Regulatory uncertainty
+- Technical complexity
+- Irreversible transactions
+- Total loss possibility
+
+### 17.2 No Custody
+- The App does NOT hold your cryptocurrency
+- You maintain control of private keys
+- The App only tracks public information
+- Recovery is your responsibility
+
+---
+
+## 18. CONTACT INFORMATION
+
+For questions about these Terms:
+- **Email:** it.minh@kbinvt.com
+- **Response Time:** Best effort basis
+
+---
+
+## 19. ACCEPTANCE AND CONSENT
+
+BY USING THE SERVICE, YOU:
+- Accept these Terms in full
+- Confirm you are 18+ years old
+- Understand the risks involved
+- Waive certain legal rights
+- Agree to binding arbitration
+
+---
+
+## 20. DEFINITIONS
+
+- **"App"** or **"Service"**: The Treasure Personal Asset Manager application
+- **"User"** or **"You"**: Person using the Service
+- **"Developer"**: Creator and maintainer of the Service
+- **"Financial Data"**: Any monetary or asset information
+- **"Third-Party Services"**: External APIs, banks, exchanges
+
+---
+
+## ACKNOWLEDGMENT
+
+**BY USING THIS SERVICE, YOU ACKNOWLEDGE THAT:**
+
+✓ You have read and understood these Terms  
+✓ You accept all risks associated with financial tracking  
+✓ The Service provides no financial advice  
+✓ You are solely responsible for your financial decisions  
+✓ You will use the Service only for personal, lawful purposes  
+
+---
+
+## VERSION HISTORY
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0.0 | August 25, 2025 | Initial Terms of Service |
+
+---
+
+## EXHIBIT A: RISK DISCLOSURE
+
+**FINANCIAL RISKS:**
+- Market volatility
+- Currency fluctuation
+- Investment losses
+- Incorrect data
+- Technical failures
+
+**SECURITY RISKS:**
+- Hacking attempts
+- Data breaches
+- Phishing attacks
+- Malware
+- User error
+
+**TECHNICAL RISKS:**
+- Software bugs
+- API failures
+- Data corruption
+- Compatibility issues
+- Update failures
+
+---
+
+*END OF TERMS OF SERVICE*
+
+**Remember:** If you do not agree with any part of these Terms, do not use the Treasure Personal Asset Manager application.
